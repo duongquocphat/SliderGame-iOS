@@ -1,0 +1,33 @@
+
+/* Class = "UILabel"; text = "Player 1"; ObjectID = "1G8-f8-uO3"; */
+"1G8-f8-uO3.text" = "Player 1";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "2WM-9u-eeV"; */
+"2WM-9u-eeV.title" = "Back";
+
+/* Class = "UILabel"; text = "Shakutara"; ObjectID = "4lS-Ap-sL1"; */
+"4lS-Ap-sL1.text" = "Shakutara";
+
+/* Class = "UILabel"; text = "11:09 23/10/019"; ObjectID = "A6X-Qt-q28"; */
+"A6X-Qt-q28.text" = "11:09 23/10/019";
+
+/* Class = "UILabel"; text = "Player 2"; ObjectID = "Ny2-bF-gd0"; */
+"Ny2-bF-gd0.text" = "Player 2";
+
+/* Class = "UILabel"; text = "Ready?"; ObjectID = "Onk-Ep-tfx"; */
+"Onk-Ep-tfx.text" = "Ready?";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "PXb-Nt-fBm"; */
+"PXb-Nt-fBm.text" = "0";
+
+/* Class = "UINavigationItem"; title = "Top Players"; ObjectID = "RYl-Of-0Oa"; */
+"RYl-Of-0Oa.title" = "Top Players";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "RkS-YG-H73"; */
+"RkS-YG-H73.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "Top Players"; ObjectID = "euS-lw-DBt"; */
+"euS-lw-DBt.text" = "Top Players";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "qD9-H8-Ij8"; */
+"qD9-H8-Ij8.text" = "0";
